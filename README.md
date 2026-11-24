@@ -33,9 +33,9 @@
 
 ### 📊 GitHub Stats
 
-*(เปลี่ยนคำว่า `your-github-username` ด้านล่างเป็น Username ของคุณ)*
+
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inthira&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
